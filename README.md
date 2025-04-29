@@ -1,6 +1,6 @@
 # Smartpot AR - AR Based Plant Irigation and Monitoring
 
-AR Based mobile application to monitor and control plant condition using Vuforia Engine and Google Firebase
+AR Based mobile application to monitor and control plant condition using Vuforia Engine and Google Firebase RTDB
 
 **Introduction**
 
