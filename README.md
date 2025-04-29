@@ -29,7 +29,13 @@ This project uses Firebase Realtime Database to store data sent from ESP32 and U
 
 **![target_3.png](https://github.com/RizkiMaulanaP/Smartpot-AR/blob/main/images/target_3.png)**
 
-**Finished Product:**
+
+**Documentation:**
+
+**![progress_1.jpeg](https://github.com/RizkiMaulanaP/Smartpot-AR/blob/main/images/progress_1.jpeg)**
+
+**![progress_2.jpeg](https://github.com/RizkiMaulanaP/Smartpot-AR/blob/main/images/progress_2.jpeg)**
+
 **![hardware_ui.png](https://github.com/RizkiMaulanaP/Smartpot-AR/blob/main/images/hardware_ui.png)**
 
 **![result_1.jpeg](https://github.com/RizkiMaulanaP/Smartpot-AR/blob/main/images/result_1.jpeg)**
